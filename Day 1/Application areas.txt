@@ -1,0 +1,18 @@
+*Web development-
+  Django,Flask,Web2py,Bottle,Tornado
+
+*Graphical User Interfaces-
+  Kivy,PyQT,Tkinter,PyGUI,Pyside,WxPython,pygame
+
+*Multimedia Programming-
+  PyMedia,GStreamer,PyGame,Pyglet
+
+*Database Programming-
+  Supporting connectors for all databases
+
+*Automation-
+  ANN,IOT,MicroPython,Embedded Systems
+
+*Web Scraping(Extracting data from a web page with the help of
+            code and not copying directly from the web page)
+  Beautiful Soup,Scrapy,Requests,Selenium

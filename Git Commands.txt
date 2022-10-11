@@ -1,0 +1,19 @@
+>Create new repository
+>Provide valid name
+>Select public repo
+>finish
+
+-------------------------------------
+GIT Commands. ML Training(2022)
+
+Goto your folder
+type cmd in address bar then enter
+
+git init    (This initialize the GIT folder)
+git add .   (Add all files in git folder)
+git config user.name "Gaurav Gupta"
+git config user.email "email@id.com"
+git remote add origin "yourrepolink.git"
+
+git commit -m "anymessage"
+git push -u origin main

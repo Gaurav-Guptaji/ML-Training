@@ -1,0 +1,22 @@
+Some Terms
+ *Machine Learning
+ *Deep Learning
+ *Data Analysis
+ *Data science
+ *Artificial Intelligence----Alexa
+ *Big Data ------ 3V-- 1.volume  2.varity  3.velocity 
+ *Cloud computing
+---------------------------------
+Types of data
+  1. Structured Data
+  2. Unstructured Data
+---------------------------------
+
+Python Language Characteristics-
+ *Easy to learn-beginner's programming language
+ *cross-platform Interpreted language
+ *Clean and elegant syntax
+ *Free and Open source
+ *Object-oriented programming language
+ *Large standard Library
+ *Magic methods

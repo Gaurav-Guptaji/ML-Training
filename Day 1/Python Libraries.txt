@@ -1,0 +1,17 @@
+1. Data Manipulation     ---- Numpy,Pandas
+2. Data Visualisation    ---- Matplotlib,seaborn,Plotly
+3. Machine Learning      ---- scikit-learn,sk-learn
+4. Deep learning         ---- Tensorflow,Keras,Pytorch
+
+--------------------------------------------------
+
+Some other libraries
+
+Scientific computing --- Astrophy,Biopython,Bokeh,Cubes,Matplotlib,
+                         NetworkX,NumPy,Pandas,PyTorch,SciPy
+Text processing      --- NLTK,Polyglot,TextBlob,CoreNLP,Vocabulary,
+                         QuePy
+Image processing     --- OpenCV,Pillow,Scikit-Image
+Machine learning     --- Scikit-Learn,TensorFlow,Keras
+Data analytics       --- NumPy,Pandas,Matplotlib,Seaborn
+Data science         --- ML,DA,TensorFlow,Keras

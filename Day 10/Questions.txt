@@ -1,0 +1,12 @@
+QUESTIONS TO PERFORM ON MOVIES (DAY 10 ML TRAINING)
+
+1.Find the longest movie name?
+2.Find No of movies who got 10 star rating?
+3.How many industries are there?
+4.Find the least liked comedy movie name?
+5.Find longest english movie?
+6.What is the genre of Intersteller movie?
+7.What is the average duration of each Genre?
+8.What is the average rating of each industry?
+9.What is the avg rating of romantic movies industry wise?
+10.List down all the english movies with their respectively descending order.
