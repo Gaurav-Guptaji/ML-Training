@@ -20,8 +20,8 @@ ttk.Label(app,text="Number of Rooms",padx=15,pady=15).grid(row=2,column=0)
 ttk.Entry(app,textvariable=num_rooms,width=10).grid(row=2,column=1)
 
 population=ttk.Variable(app)
-ttk.Label(app,text="Populatione",padx=15,pady=15).grid(row=3,column=0)
-ttk.Entry(app,textvariable=house_age,width=10).grid(row=3,column=1)
+ttk.Label(app,text="Population",padx=15,pady=15).grid(row=3,column=0)
+ttk.Entry(app,textvariable=population,width=10).grid(row=3,column=1)
 
 def prediction():
     global model
